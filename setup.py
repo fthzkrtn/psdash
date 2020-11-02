@@ -27,7 +27,7 @@ setup(
     include_package_data=True,
     zip_safe=False,
     install_requires=[
-        "Flask==0.10.1",
+        "Flask==1.0",
         "psutil==1.2.1",
         "argparse==1.2.1"
     ],
